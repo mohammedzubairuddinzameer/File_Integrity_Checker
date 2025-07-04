@@ -24,4 +24,5 @@ The tool uses several core Python modules, such as `hashlib` for hashing, `os` f
 In summary, the File Integrity Checker is a practical and educational tool that demonstrates the use of cryptographic hash functions for real-world file monitoring. It automates the process of file hash calculation, comparison, and change detection, providing users with a reliable way to verify file authenticity. Its simple design, combined with effective functionality, makes it suitable for anyone from beginners learning about cybersecurity concepts to professionals seeking a quick solution for file integrity verification. This task highlights the importance of file validation and showcases how Python can be effectively used to implement security-oriented utilities.
 
 ##OUTPUT
-"C:\Users\moham\OneDrive\Pictures\Screenshots\Screenshot 2025-07-04 170009.png"
+
+![Screenshot 2025-07-04 170009](https://github.com/user-attachments/assets/f7bd2e0d-c1e1-412a-afcb-2285a00a716d)
